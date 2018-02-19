@@ -13,7 +13,7 @@
 - Email
 - Domyœlny katalog, w którym maj¹ byæ zapisywane wygenerowane pliki JPK
 
-![init_2](/ZrzutyEkranu/inicjalizacja_kreator_jpk.jpg 'Inicjalizacja w zak³adce "Orygina³"')
+![init_2](/ZrzutyEkranu/inicjalizacja_kreator_jpk.jpg 'Inicjalizacja w zak³adce "Kreator_JPK"')
 
 # W³¹czenie makr:
 
