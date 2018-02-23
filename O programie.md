@@ -1,8 +1,9 @@
-# JPK100								
-Licencja: LGPL v. 2.1
-Strona:	  https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
-Autorzy:  Przemysław Bągard i Marcin Bągard.
+# JPK100
+Autorzy: Przemysław Bągard i Marcin Bągard.
+
 Copyright 2018.
+
+Licencja: LGPL v. 2.1
 
 Wykorzystane zależności:
 * Szablon faktury pobrano ze strony:
