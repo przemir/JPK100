@@ -50,7 +50,10 @@
 1. PrzejdŸ do zak³adki "Kreator_JPK"
 2. WprowadŸ datê w wyszarzonym polu pod polem "DataOd". Pole "DataDo" wype³ni siê automatycznie.
 Pole "DataWytworzeniaJPK" wype³nia siê aktualn¹ dat¹ (data ostatniego otworzenia dokumentu).
-3. Pole pod polem "CelZlozenia" wype³nij we w³asnym zakresie: 0 jest dla pierwotnego dokumentu (w roku 2018),
+3. Pole pod polem "CelZlozenia" wype³nij we w³asnym zakresie: 0 jest dla pierwotnego dokumentu (w roku 2018).
+4. Kliknij w przycisk "Wygeneruj JPK"
+5. Wska¿ docelowy folder gdzie ma zostaæ zapisany plik csv.
+6. W tym momencie funkcjonalnoœæ tego programu siê koñczy. Wygenerowany plik CSV pos³u¿y do przes³ania JPK aplikacj¹ "Klient JPK 2.0" - udostêpnion¹ przez Ministerstwo Finansów.
 
 # Dane sprzeda¿y/zakupu miesiêczne:
 
